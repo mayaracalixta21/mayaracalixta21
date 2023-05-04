@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente estou trabalhando em automatização de testes 
-- 🌱 Estou aprendendo Robot/Cypress/Selenium
+- 🌱 Robot/Cypress/Selenium
 
   <div style="display: inline_block"><br>
     <img align="center" alt="Mayara-Se" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
